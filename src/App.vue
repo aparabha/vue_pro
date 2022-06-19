@@ -46,13 +46,6 @@ export default{
                 phone:'12333313',
                 email:'abc@ffsf.com',
                 isFavorite:true,
-                },
-                {
-                id:'d',
-                name:'Nikhil',
-                phone:'7677676',
-                email:'nikhil@ffsf.com',
-                isFavorite:true,
                 }
             ]
         };
